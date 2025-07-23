@@ -17,6 +17,7 @@ A simple Flask web application that displays blog posts dynamically fetched from
 ## 🛠️ Tech Stack
 
 - **Backend**: [Flask](https://flask.palletsprojects.com/)
+- **Templating**: [Jinja2](https://jinja.palletsprojects.com/)
 - **Frontend**: HTML, CSS (with media queries for responsiveness)
 - **Data Source**: Public API from [npoint.io](https://www.npoint.io)
 - **Tools Used**:
